@@ -2,7 +2,7 @@ name: Learn Workflow
 
 on: 
   push:
-    branches: [master]
+    branches: [main]
 
 job:
   setup_django_project:
